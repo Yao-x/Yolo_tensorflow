@@ -1,0 +1,2 @@
+model_checkpoint_path: "yolo.ckpt-5000"
+all_model_checkpoint_paths: "yolo.ckpt-5000"

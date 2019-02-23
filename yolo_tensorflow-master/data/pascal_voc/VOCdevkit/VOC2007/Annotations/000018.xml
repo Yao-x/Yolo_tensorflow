@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000018.jpg</filename>
+	<path>G:\yolo_tensorflow-master\yolo_tensorflow-master1\yolo_tensorflow-master\data\pascal_voc\VOCdevkit\VOC2007\JPEGImages\000018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>312</ymin>
+			<xmax>867</xmax>
+			<ymax>1202</ymax>
+		</bndbox>
+	</object>
+</annotation>
